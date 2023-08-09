@@ -1,0 +1,19 @@
+.par {
+    background-color: #ffa7a7;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.n3 {
+    font-size: 24px;
+}
+
+#n2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#n4{
+    background-color: #80ff80;
+    font-size: 24px;
+    font-weight: bold;
+}
